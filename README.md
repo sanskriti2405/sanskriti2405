@@ -41,7 +41,6 @@
 | [**DocuGuard**](https://github.com/sanskriti2405/docuguard) | Explainable forgery detection for scanned documents | 87% acc · 0.93 AUC on unseen templates | PyTorch · OpenCV · ONNX · scikit-learn |
 | [**Deepfake Video Detection**](https://github.com/sanskriti2405/deepfake-video-detection) | MTCNN face extraction + DenseNet121 on FaceForensics++ *(team project, compared with ResNet50 and VGG19)* | 94.8% acc · 0.989 AUC (DenseNet121) | TensorFlow · OpenCV · MTCNN |
 | [**Traffic Sign Recognition**](https://github.com/sanskriti2405/traffic-sign-recognition-cnn) | Custom 231K-parameter CNN for 43 GTSRB classes, with a Gradio demo | 99.3% hold-out accuracy | TensorFlow · OpenCV · Gradio |
-| [**AI Conversational Agent**](https://github.com/sanskriti2405/-ai-conversational-agent) | Domain-specific chatbot using intent retrieval over embeddings | *in progress* | Python · NLP |
 
 ---
 
